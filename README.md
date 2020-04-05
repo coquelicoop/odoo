@@ -4,7 +4,7 @@ Node.js client library for Odoo
 
 ## Remarque importante
 Ce package est juste une correctif mineur, mais obligatoire, du package origine.  
-Il récupère correctement les erreurs de connexion et gère la durée du timeout qui peut être passé en configuration..
+Il récupère correctement les erreurs de connexion et gère la durée du timeout qui peut être passé en configuration...
 
 Pour le packager:  
 npm pack  
